@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Kirill Gruzdev!
-- 👀 I’m interested in the frontend development
-- 🌱 I’m currently learning react
+Kirill, Kursk.
+Junior React developer
 
 <!---
 ZeraiGR/ZeraiGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
